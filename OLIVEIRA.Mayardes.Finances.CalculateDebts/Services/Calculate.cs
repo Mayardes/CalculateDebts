@@ -7,7 +7,7 @@
         {
             Value += value;
         }
-        public static decimal GetValueTotal()
+        public static decimal GetValueTotalExpenses()
         {
             return Value;
         }
